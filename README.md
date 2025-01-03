@@ -1,10 +1,10 @@
 
 # OOP UML Case Studies
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-4B0082?style=for-the-badge&logo=uml&logoColor=white)
+![Diagrams.net](https://img.shields.io/badge/Diagrams-FFA500?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Education](https://img.shields.io/badge/Education-3E7DD8?style=for-the-badge&logo=bookstack&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ## Introduction
 This repository contains examples and practices for Object-Oriented Programming (OOP) concepts and techniques. It includes UML diagram samples and descriptions for various systems implemented using OOP principles.
