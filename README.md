@@ -1,5 +1,10 @@
 
-# OOP Practices
+# OOP UML Case Studies
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![UML](https://img.shields.io/badge/UML-4B0082?style=for-the-badge&logo=uml&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ## Introduction
 This repository contains examples and practices for Object-Oriented Programming (OOP) concepts and techniques. It includes UML diagram samples and descriptions for various systems implemented using OOP principles.
@@ -22,7 +27,7 @@ This repository contains examples and practices for Object-Oriented Programming 
 ## Project Structure
 The project is organized as follows:
 ```
-OOP/
+oop-uml-case-studies/
 │
 ├── .idea/
 ├── src/
@@ -56,17 +61,17 @@ OOP/
 1. **Clone the Repository via IntelliJ IDEA**:
     - Open IntelliJ IDEA.
     - Select `File > New > Project from Version Control...`.
-    - Choose `Git` and enter the repository URL: `https://github.com/ChatGTHB/OOP`.
+    - Choose `Git` and enter the repository URL: `https://github.com/cihat-kose/oop-uml-case-studies`.
     - Click `Clone`.
 
 ### Using Command Line
 1. **Clone the Repository**:
     ```bash
     # Clone this repository
-    $ git clone https://github.com/ChatGTHB/OOP
+    $ git clone https://github.com/cihat-kose/oop-uml-case-studies
 
     # Navigate to the repository
-    $ cd OOP
+    $ cd oop-uml-case-studies
     ```
 
 ## Usage
@@ -91,7 +96,7 @@ Example systems include:
 - **Elevator Simulation**: Simulates the operations of an elevator in a building.
 
 ## Contributors
-- [ChatGTHB](https://github.com/ChatGTHB) - Repository Owner
+- [cihat-kose](https://github.com/cihat-kose) - Repository Owner
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
